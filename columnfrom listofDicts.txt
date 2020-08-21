@@ -1,8 +1,0 @@
-current_description = []
-        for obj in city_weather['weather']:
-            current_description.append(obj['description'])
-
-to pull a column for a list of dictionaries
-# current_description['description']
-#lists = current_description
-#lists[0]['description']
